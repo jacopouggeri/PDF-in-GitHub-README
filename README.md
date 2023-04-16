@@ -1,4 +1,4 @@
-# PDF in GITHUB README.md
+# PDF in GitHub README.md
 
 This is a workaround to the fact that PDF files are not displayed when linked in README.md.
 The shell script pdftopng.sh generates png files for each page in your pdf and adds them to `README.md` so they can be shown there.
