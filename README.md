@@ -16,6 +16,7 @@ Then it will generate the link to the files at the end of your `README.md` like 
 ```md
 ![Page <n>](png/<filename>-<n>.png)
 ```
+Where `<filename>` is the name of your pdf file and `<n>` the page number
 
 When the script is run again, only the missing pages will be added.
 
