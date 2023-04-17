@@ -22,7 +22,7 @@ else
 fi
 
 # create an array of PNG filenames
-png_files=(png/curriculum_vitae-*.png)
+png_files=(png/*-*.png)
 
 # check which pages are missing and add them to a list
 missing_pages=()
