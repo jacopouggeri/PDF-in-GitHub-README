@@ -22,3 +22,8 @@ The default backgorund color is white. If you want a transparent background, you
 ```shell
 ./pdftopng.sh -a
 ```
+
+On mac, you might have permissions problems, if so run:
+```shell
+chmod +x pdftopng.sh
+```
